@@ -1,2 +1,2 @@
 # game
-cstor onlyellow game
+onlyellow cstor game
