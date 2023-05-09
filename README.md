@@ -1,0 +1,2 @@
+# game
+cstor onlyellow game
